@@ -1,26 +1,6 @@
 {
-    "name": "proxeuse/fortify-tabler",
-    "description": "A preset for FortifyUI based on the Tabler Bootstrap framework.",
-    "keywords": [
-        "fortify-ui",
-        "laravel",
-        "tabler.io"
-    ],
-    "homepage": "https://github.com/Proxeuse/fortify-tabler/",
+    "name": "thwjf156/fortify-tabler",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Roel Reijneveld",
-            "email": "info@roelreijneveld.nl",
-            "homepage": "https://roelreijneveld.nl",
-            "role": "Developer"
-        },
-        {
-            "name": "Proxeuse",
-            "email": "contact@proxeuse.com",
-            "homepage": "https://www.proxeuse.com/"
-        }
-    ],
     "require": {
         "php": "^7.3 || ^8.0",
         "illuminate/contracts": "^8.0",
@@ -46,6 +26,5 @@
                 "Proxeuse\\FortifyUITabler\\FortifyUITablerServiceProvider"
             ]
         }
-    },
-    "prefer-stable": true
+    }
 }
